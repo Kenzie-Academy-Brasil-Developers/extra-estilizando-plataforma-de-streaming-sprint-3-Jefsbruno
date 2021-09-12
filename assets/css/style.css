@@ -239,7 +239,7 @@ main {}
 
 .pagina-inicial .secao-destaque {
     /* -webkit-mask-image:linear-gradient(to bottom, rgba(0,0,0,.7) 10%, rgba(0,0,0,0));*/
-    background-image: url("../assets/img/movies/ted.webp");
+    background-image: url("assets/img/movies/ted.webp");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
